@@ -14,7 +14,7 @@
                                 <div class="hidden lg:block"></div>
                                 <div class="text-center lg:text-right text-white space-y-4">
                                     <h2 class="text-lg lg:text-xl font-extrabold uppercase leading-tight animate-fade-up">
-                                        Nội thất <span class="text-[var(--primary)]">Tinh tế</span>
+                                        Stainless Steel Fluid Handling Products 
                                     </h2>
                                     <p class="text-sm lg:text-lg text-gray-200 animate-fade-up delay-100 line-clamp-4">
                                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea delectus blanditiis, eius exercitationem deserunt impedit eligendi expedita, omnis assumenda distinctio excepturi repudiandae quae laudantium! Necessitatibus neque explicabo amet laudantium commodi.
